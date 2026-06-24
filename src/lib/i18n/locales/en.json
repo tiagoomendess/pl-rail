@@ -1,0 +1,87 @@
+{
+  "seo": {
+    "title": "PL Rail – Railway Plant Operators & Rail-Road Equipment Hire",
+    "description": "PL Rail provides qualified railway plant operators and Rail-Road equipment hire for railway construction and civil engineering projects across France.",
+    "og_title": "PL Rail – Your railway worksite partner",
+    "og_description": "Qualified operators, Rail-Road excavator, CACES® R482 & B3. Available day, night, weekends."
+  },
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "equipment": "Equipment",
+    "certifications": "Certifications",
+    "commitments": "Commitments",
+    "missions": "Missions",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Your partner for railway worksites",
+    "cta": "Contact us",
+    "scroll_hint": "Discover"
+  },
+  "about": {
+    "title": "About us",
+    "body1": "PL Rail is a specialist company providing qualified railway plant operators and Rail-Road equipment hire for railway and civil engineering worksites.",
+    "body2": "Drawing on solid field experience, PL Rail supports industry companies with flexible solutions tailored to the specific needs of each project – whether a short-term reinforcement, an operator replacement or a long-term engagement."
+  },
+  "services": {
+    "title": "Areas of expertise",
+    "intro": "We operate a range of machinery for railway and infrastructure works:",
+    "items": [
+      { "name": "Rail-Road Excavator", "desc": "Versatile machine for on-track and off-track operations, ideal for complex railway worksites." },
+      { "name": "Wheeled Excavator", "desc": "Mobility and versatility for earthworks and infrastructure projects." },
+      { "name": "Tracked Excavator", "desc": "Stability and power for difficult terrain and large-scale excavation works." },
+      { "name": "Loader", "desc": "Efficient loading and handling of materials on railway worksites." }
+    ]
+  },
+  "equipment": {
+    "title": "Available equipment",
+    "intro": "Complementary equipment available on request:",
+    "items": [
+      { "name": "Rail-Road Excavator + Engcon tiltrotator", "desc": "Maximum flexibility with Engcon tiltrotator equipment on rail tracks." },
+      { "name": "MB8 Tamper", "desc": "Precision ballast compaction and tamping for track maintenance." },
+      { "name": "Ballast brush", "desc": "Ballast cleaning and track maintenance for optimal track quality." }
+    ]
+  },
+  "certifications": {
+    "title": "Certifications & Qualifications",
+    "intro": "PL Rail holds the qualifications required to operate in compliance with the regulatory and safety requirements of the railway sector:",
+    "items": [
+      { "name": "CACES® R482", "desc": "Construction plant – Qualification for operating civil engineering machinery." },
+      { "name": "CACES® B3", "desc": "Specialist Rail-Road plant – Specific qualification for railway machinery." }
+    ]
+  },
+  "commitments": {
+    "title": "Our commitments",
+    "items": [
+      { "name": "Flexible availability", "desc": "Operations day, night, weekends and public holidays to suit your needs." },
+      { "name": "Responsiveness", "desc": "Rapid mobilisation capability to meet your operational urgent needs." },
+      { "name": "Railway safety", "desc": "Strict compliance with railway safety procedures and track access protocols." },
+      { "name": "Operational autonomy", "desc": "Operations conducted with professionalism, independence and efficiency." },
+      { "name": "Adaptability", "desc": "Full adaptation to the specific constraints and requirements of each worksite." }
+    ]
+  },
+  "missions": {
+    "title": "Types of assignment",
+    "intro": "Every intervention is carried out in compliance with railway standards, track access procedures and current safety protocols.",
+    "items": [
+      "Team reinforcement",
+      "Operator replacement",
+      "Emergency interventions",
+      "Scheduled assignments",
+      "Short-, medium- or long-term services"
+    ]
+  },
+  "contact": {
+    "title": "Contact us",
+    "body": "PL Rail is available to discuss your operational requirements and propose a solution tailored to your railway projects.",
+    "cta_email": "Send an email",
+    "cta_call": "Call us",
+    "manager": "Pedro Barbosa",
+    "role": "Manager – Railway plant operator"
+  },
+  "footer": {
+    "tagline": "Your partner for railway worksites",
+    "copyright": "© 2025 PL Rail. All rights reserved."
+  }
+}

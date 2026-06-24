@@ -1,0 +1,250 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700;800&family=Barlow+Semi+Condensed:wght@600;700;800&display=swap');
+@import '$lib/styles/theme.css';
+
+/* ─── Reset ──────────────────────────────────────────────────── */
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+	html {
+		scroll-behavior: auto;
+	}
+}
+
+body {
+	font-family: var(--font);
+	font-size: var(--text-base);
+	line-height: 1.65;
+	color: var(--blue);
+	background: var(--white);
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+img,
+video {
+	display: block;
+	max-width: 100%;
+}
+
+a {
+	color: inherit;
+}
+
+button {
+	font-family: inherit;
+	cursor: pointer;
+}
+
+/* ─── Shared layout helpers ─────────────────────────────────── */
+.container {
+	width: 100%;
+	max-width: var(--container);
+	margin-inline: auto;
+	padding-inline: clamp(1.25rem, 5vw, 3rem);
+}
+
+.container--sm {
+	max-width: var(--container-sm);
+}
+
+/* ─── Section base ───────────────────────────────────────────── */
+.section {
+	padding-block: var(--section-py);
+}
+
+.section--dark {
+	background: var(--blue);
+	color: var(--white);
+}
+
+.section--gray {
+	background: var(--gray-50);
+}
+
+/* ─── Section title ──────────────────────────────────────────── */
+.section__label {
+	display: block;
+	font-size: var(--text-xs);
+	font-weight: 700;
+	letter-spacing: 0.15em;
+	text-transform: uppercase;
+	color: var(--orange);
+	margin-bottom: var(--sp-3);
+}
+
+.section__title {
+	font-size: clamp(var(--text-3xl), 4vw, var(--text-5xl));
+	font-weight: 800;
+	line-height: 1.1;
+	letter-spacing: -0.02em;
+	margin-bottom: var(--sp-5);
+	position: relative;
+	padding-bottom: var(--sp-6);
+}
+
+.section__title::after {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 3rem;
+	height: 4px;
+	background: var(--orange);
+	border-radius: var(--r-full);
+}
+
+.section--dark .section__title::after {
+	background: var(--orange);
+}
+
+.section__intro {
+	font-size: var(--text-lg);
+	line-height: 1.7;
+	color: var(--gray-700);
+	max-width: 60ch;
+	margin-bottom: var(--sp-10);
+}
+
+.section--dark .section__intro {
+	color: rgba(255, 255, 255, 0.75);
+}
+
+/* ─── Buttons ────────────────────────────────────────────────── */
+.btn {
+	display: inline-flex;
+	align-items: center;
+	gap: var(--sp-2);
+	padding: 0.8em 1.75em;
+	border-radius: var(--r-full);
+	font-size: var(--text-base);
+	font-weight: 700;
+	letter-spacing: 0.02em;
+	text-decoration: none;
+	border: 2px solid transparent;
+	transition: background var(--ease), color var(--ease), border-color var(--ease),
+		transform var(--ease), box-shadow var(--ease);
+	white-space: nowrap;
+}
+
+.btn:hover {
+	transform: translateY(-1px);
+}
+
+.btn--primary {
+	background: var(--orange);
+	color: var(--white);
+	border-color: var(--orange);
+	box-shadow: 0 4px 18px rgba(255, 117, 47, 0.4);
+}
+
+.btn--primary:hover {
+	background: var(--orange-dark);
+	border-color: var(--orange-dark);
+	box-shadow: 0 6px 24px rgba(255, 117, 47, 0.5);
+}
+
+.btn--outline {
+	background: transparent;
+	color: var(--blue);
+	border-color: var(--blue);
+}
+
+.btn--outline:hover {
+	background: var(--blue);
+	color: var(--white);
+}
+
+.btn--outline-light {
+	background: transparent;
+	color: var(--white);
+	border-color: rgba(255, 255, 255, 0.5);
+}
+
+.btn--outline-light:hover {
+	background: rgba(255, 255, 255, 0.1);
+	border-color: var(--white);
+}
+
+/* ─── Scroll-reveal ──────────────────────────────────────────── */
+.reveal {
+	opacity: 0;
+	transform: translateY(28px);
+	transition:
+		opacity 0.65s ease,
+		transform 0.65s ease;
+}
+
+.reveal--visible {
+	opacity: 1;
+	transform: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+	.reveal {
+		opacity: 1;
+		transform: none;
+		transition: none;
+	}
+}
+
+/* ─── Card ───────────────────────────────────────────────────── */
+.card {
+	background: var(--white);
+	border-radius: var(--r-xl);
+	padding: var(--sp-8);
+	box-shadow: var(--shadow-md);
+	border: 1px solid var(--gray-100);
+	transition:
+		transform var(--ease),
+		box-shadow var(--ease);
+}
+
+.card:hover {
+	transform: translateY(-4px);
+	box-shadow: var(--shadow-xl);
+}
+
+.card--dark {
+	background: var(--blue-light);
+	border-color: rgba(255, 255, 255, 0.06);
+	color: var(--white);
+}
+
+.card--dark:hover {
+	background: var(--blue-lighter);
+}
+
+/* ─── Track divider (railway-inspired) ──────────────────────── */
+.track-divider {
+	display: flex;
+	align-items: center;
+	gap: var(--sp-4);
+	margin-block: var(--sp-12);
+	color: var(--gray-300);
+}
+
+.track-divider::before,
+.track-divider::after {
+	content: '';
+	flex: 1;
+	height: 2px;
+	background: currentColor;
+}
+
+.track-divider--dot {
+	width: 6px;
+	height: 6px;
+	border-radius: 50%;
+	background: var(--orange);
+	flex-shrink: 0;
+}

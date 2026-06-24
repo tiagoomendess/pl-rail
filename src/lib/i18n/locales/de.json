@@ -1,0 +1,91 @@
+{
+  "seo": {
+    "title": "PL Rail – Gleisbaumaschinenführer & Zweiwegefahrzeug-Verleih",
+    "description": "PL Rail, Spezialist für qualifizierte Gleisbaumaschinenführer und Zweiwegefahrzeug-Verleih für Gleisbaustellen und Tiefbauprojekte in Frankreich.",
+    "og_title": "PL Rail – Ihr Partner für Gleisbaustellen",
+    "og_description": "Qualifizierte Maschinenführer, Zweiwegebagger, CACES® R482 & B3. Verfügbar tagsüber, nachts, am Wochenende."
+  },
+  "nav": {
+    "about": "Über uns",
+    "services": "Leistungen",
+    "equipment": "Ausrüstung",
+    "certifications": "Zertifizierungen",
+    "commitments": "Verpflichtungen",
+    "missions": "Einsätze",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "tagline": "Ihr Partner für Gleisbaustellen",
+    "cta": "Kontakt aufnehmen",
+    "scroll_hint": "Entdecken"
+  },
+  "about": {
+    "title": "Über uns",
+    "body1": "PL Rail ist ein auf die Bereitstellung qualifizierter Gleisbaumaschinenführer und die Vermietung von Zweiwegefahrzeugen spezialisiertes Unternehmen für Gleisbaustellen und Tiefbauprojekte.",
+    "body2": "Mit solider Felderfahrung begleitet PL Rail Unternehmen der Branche mit flexiblen, auf die spezifischen Anforderungen jeder Baustelle zugeschnittenen Lösungen – ob kurzfristige Verstärkung, Maschinenführerersatz oder langfristiger Einsatz."
+  },
+  "services": {
+    "title": "Einsatzbereiche",
+    "intro": "Wir bedienen verschiedene Maschinentypen für Gleisbau und Infrastrukturprojekte:",
+    "items": [
+      { "name": "Zweiwegebagger", "desc": "Vielseitige Maschine für Einsätze auf und neben der Schiene, ideal für komplexe Gleisbaustellen." },
+      { "name": "Radbagger", "desc": "Mobilität und Vielseitigkeit für Erdarbeiten und Infrastrukturprojekte." },
+      { "name": "Kettenbagger", "desc": "Stabilität und Leistung für schwieriges Gelände und große Baggerarbeiten." },
+      { "name": "Radlader", "desc": "Effizientes Laden und Umschlagen von Materialien auf Gleisbaustellen." }
+    ]
+  },
+  "equipment": {
+    "title": "Verfügbare Ausrüstung",
+    "intro": "Bereitstellung von Ergänzungsausrüstung je nach Baustellenbedarf:",
+    "items": [
+      { "name": "Zweiwegebagger + Engcon-Tiltrotator", "desc": "Maximale Flexibilität durch Engcon-Tiltrotator-Ausrüstung auf Gleisanlagen." },
+      { "name": "Stopfmaschine MB8", "desc": "Präzisionsverdichtung und Stopfen des Schotters für die Gleisunterhaltung." },
+      { "name": "Schotterkehrer", "desc": "Schotterreinigung und Gleispflege für optimale Gleisqualität." }
+    ]
+  },
+  "certifications": {
+    "title": "Zertifizierungen & Qualifikationen",
+    "intro": "PL Rail besitzt die erforderlichen Qualifikationen für den Einsatz unter Einhaltung der regulatorischen und sicherheitstechnischen Anforderungen des Schienenverkehrs:",
+    "items": [
+      { "name": "CACES® R482", "desc": "Baumaschinen – Qualifikation zur Bedienung von Tiefbaumaschinen." },
+      { "name": "CACES® B3", "desc": "Spezialisierte Zweiwegefahrzeuge – Spezifische Qualifikation für Schienenfahrzeuge." }
+    ]
+  },
+  "commitments": {
+    "title": "Unsere Verpflichtungen",
+    "items": [
+      { "name": "Flexible Verfügbarkeit", "desc": "Einsätze möglich tagsüber, nachts, am Wochenende und an Feiertagen." },
+      { "name": "Reaktionsfähigkeit", "desc": "Schnelle Einsatzfähigkeit zur Bewältigung Ihrer betrieblichen Notfälle." },
+      { "name": "Eisenbahnsicherheit", "desc": "Strikte Einhaltung der Eisenbahnsicherheitsverfahren und Gleiszugangsprotokollen." },
+      { "name": "Operative Eigenständigkeit", "desc": "Professionell, eigenständig und effizient durchgeführte Operationen." },
+      { "name": "Anpassungsfähigkeit", "desc": "Vollständige Anpassung an die spezifischen Anforderungen jeder Baustelle." }
+    ]
+  },
+  "missions": {
+    "title": "Einsatzarten",
+    "intro": "Jeder Einsatz erfolgt unter Einhaltung der Eisenbahnnormen, der Gleiszugangsverfahren und der geltenden Sicherheitsprotokolle.",
+    "items": [
+      "Teamverstärkung",
+      "Maschinenführerersatz",
+      "Notfalleinsätze",
+      "Geplante Einsätze",
+      "Kurz-, mittel- oder langfristige Leistungen"
+    ]
+  },
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "body": "PL Rail steht Ihnen zur Verfügung, um Ihren Betriebsbedarf zu analysieren und eine auf Ihre Schienenbauprojekte zugeschnittene Lösung vorzuschlagen.",
+    "cta_email": "E-Mail senden",
+    "cta_call": "Anrufen",
+    "manager": "Pedro Barbosa",
+    "role": "Geschäftsführer – Gleisbaumaschinenführer"
+  },
+  "gallery": {
+    "label": "Unsere Projekte",
+    "title": "Unsere Baustellen"
+  },
+  "footer": {
+    "tagline": "Ihr Partner für Gleisbaustellen",
+    "copyright": "© 2025 PL Rail. Alle Rechte vorbehalten."
+  }
+}

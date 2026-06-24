@@ -1,0 +1,91 @@
+{
+  "seo": {
+    "title": "PL Rail – Operadores de Maquinaria Ferroviaria & Alquiler Rail-Carretera",
+    "description": "PL Rail, especialista en operadores de maquinaria ferroviaria cualificados y alquiler de equipos Rail-Carretera para obras ferroviarias e infraestructuras en Francia.",
+    "og_title": "PL Rail – Su socio para obras ferroviarias",
+    "og_description": "Operadores cualificados, Excavadora Rail-Carretera, CACES® R482 & B3. Disponible día, noche, fines de semana."
+  },
+  "nav": {
+    "about": "Quiénes somos",
+    "services": "Servicios",
+    "equipment": "Equipamiento",
+    "certifications": "Certificaciones",
+    "commitments": "Compromisos",
+    "missions": "Misiones",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "tagline": "Su socio para obras ferroviarias",
+    "cta": "Contáctenos",
+    "scroll_hint": "Descubrir"
+  },
+  "about": {
+    "title": "Quiénes somos",
+    "body1": "PL Rail es una empresa especializada en la provisión de operadores cualificados de maquinaria ferroviaria y en el alquiler de equipos Rail-Carretera para obras ferroviarias y de obra civil.",
+    "body2": "Con una sólida experiencia en el terreno, PL Rail acompaña a las empresas del sector con soluciones flexibles, adaptadas a las necesidades específicas de cada obra, ya sea un refuerzo puntual, una sustitución de operador o una intervención de larga duración."
+  },
+  "services": {
+    "title": "Ámbitos de intervención",
+    "intro": "Operamos sobre distintos tipos de maquinaria para obras ferroviarias e infraestructuras:",
+    "items": [
+      { "name": "Excavadora Rail-Carretera", "desc": "Máquina polivalente para intervenciones en vía y fuera de ella, ideal para obras ferroviarias complejas." },
+      { "name": "Excavadora de ruedas", "desc": "Movilidad y versatilidad para trabajos de movimiento de tierras e infraestructuras." },
+      { "name": "Excavadora de cadenas", "desc": "Estabilidad y potencia para terrenos difíciles y grandes excavaciones." },
+      { "name": "Cargadora", "desc": "Carga y manipulación eficiente de materiales en obras ferroviarias." }
+    ]
+  },
+  "equipment": {
+    "title": "Equipamiento disponible",
+    "intro": "Posibilidad de puesta a disposición de material complementario según las necesidades de la obra:",
+    "items": [
+      { "name": "Excavadora Rail-Carretera + tiltrotador Engcon", "desc": "Flexibilidad máxima gracias al tiltrotador Engcon en vías férreas." },
+      { "name": "Bateadora MB8", "desc": "Compactación y bateo de precisión del balasto para el mantenimiento de vías." },
+      { "name": "Barredora de balasto", "desc": "Limpieza y mantenimiento del balasto en vía para garantizar la calidad de la vía." }
+    ]
+  },
+  "certifications": {
+    "title": "Certificaciones y Cualificaciones",
+    "intro": "PL Rail dispone de las cualificaciones necesarias para intervenir respetando los requisitos normativos y de seguridad del sector ferroviario:",
+    "items": [
+      { "name": "CACES® R482", "desc": "Maquinaria de construcción – Cualificación para la conducción de maquinaria de obra pública." },
+      { "name": "CACES® B3", "desc": "Maquinaria especializada Rail-Carretera – Cualificación específica para maquinaria ferroviaria." }
+    ]
+  },
+  "commitments": {
+    "title": "Nuestros compromisos",
+    "items": [
+      { "name": "Disponibilidad flexible", "desc": "Intervenciones posibles de día, de noche, fines de semana y festivos según sus necesidades." },
+      { "name": "Reactividad", "desc": "Capacidad de intervención rápida para responder a sus urgencias operativas." },
+      { "name": "Seguridad ferroviaria", "desc": "Estricto cumplimiento de los procedimientos de seguridad ferroviaria y protocolos de acceso a vías." },
+      { "name": "Autonomía operativa", "desc": "Operaciones realizadas con profesionalidad, autonomía y eficiencia." },
+      { "name": "Adaptabilidad", "desc": "Adaptación completa a las limitaciones y exigencias específicas de cada obra." }
+    ]
+  },
+  "missions": {
+    "title": "Tipos de misión",
+    "intro": "Cada intervención se realiza respetando las normas ferroviarias, los procedimientos de acceso a vías y los protocolos de seguridad vigentes.",
+    "items": [
+      "Refuerzo de equipos",
+      "Sustitución de operador",
+      "Intervenciones urgentes",
+      "Misiones programadas",
+      "Prestaciones de corta, media o larga duración"
+    ]
+  },
+  "contact": {
+    "title": "Contáctenos",
+    "body": "PL Rail está a su disposición para estudiar sus necesidades operativas y proponerle una solución adaptada a sus proyectos ferroviarios.",
+    "cta_email": "Enviar un correo",
+    "cta_call": "Llamar",
+    "manager": "Pedro Barbosa",
+    "role": "Gerente – Operador de maquinaria ferroviaria"
+  },
+  "gallery": {
+    "label": "Nuestros trabajos",
+    "title": "Nuestras obras"
+  },
+  "footer": {
+    "tagline": "Su socio para obras ferroviarias",
+    "copyright": "© 2025 PL Rail. Todos los derechos reservados."
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "seo": {
+    "title": "PL Rail – Spoorbouwmachinebestuurders & Rail-Weg verhuur",
+    "description": "PL Rail, specialist in gekwalificeerde spoorbouwmachinebestuurders en Rail-Weg materieel voor spoorwegprojecten en civieltechnische werken in Frankrijk.",
+    "og_title": "PL Rail – Uw partner voor spoorwegprojecten",
+    "og_description": "Gekwalificeerde bestuurders, Rail-Weg graafmachine, CACES® R482 & B3. Beschikbaar dag, nacht, weekend."
+  },
+  "nav": {
+    "about": "Over ons",
+    "services": "Diensten",
+    "equipment": "Materieel",
+    "certifications": "Certificeringen",
+    "commitments": "Toezeggingen",
+    "missions": "Opdrachten",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Uw partner voor spoorwegprojecten",
+    "cta": "Neem contact op",
+    "scroll_hint": "Ontdekken"
+  },
+  "about": {
+    "title": "Over ons",
+    "body1": "PL Rail is een gespecialiseerd bedrijf voor de levering van gekwalificeerde spoorbouwmachinebestuurders en de verhuur van Rail-Weg materieel voor spoorwegprojecten en civieltechnische werken.",
+    "body2": "Met een solide veldervaring begeleidt PL Rail bedrijven in de sector met flexibele oplossingen op maat van de specifieke behoeften van elk project, of het nu gaat om tijdelijke versterking, vervanging van bestuurders of langdurige inzet."
+  },
+  "services": {
+    "title": "Interventiegebieden",
+    "intro": "Wij werken met diverse machinetypen voor spoor- en infrastructuurwerken:",
+    "items": [
+      { "name": "Rail-Weg graafmachine", "desc": "Veelzijdige machine voor ingrepen op en naast het spoor, ideaal voor complexe spoorprojecten." },
+      { "name": "Wielgraafmachine", "desc": "Mobiliteit en veelzijdigheid voor grondverzet en infrastructuurwerken." },
+      { "name": "Rups graafmachine", "desc": "Stabiliteit en vermogen voor moeilijk terrein en grote graafwerken." },
+      { "name": "Wiellader", "desc": "Efficiënt laden en verplaatsen van materialen op spoorwegprojecten." }
+    ]
+  },
+  "equipment": {
+    "title": "Beschikbaar materieel",
+    "intro": "Mogelijkheid tot terbeschikkingstelling van aanvullend materieel naargelang de behoeften van het project:",
+    "items": [
+      { "name": "Rail-Weg graafmachine + Engcon tiltrotator", "desc": "Maximale flexibiliteit dankzij Engcon tiltrotator uitrusting op spoorwegen." },
+      { "name": "Spoorstopfmachine MB8", "desc": "Precisiecompactie en stopfen van het spoorbed voor spooronderhoud." },
+      { "name": "Ballastbezem", "desc": "Reinigen en onderhouden van het spoorbed voor optimale spookkwaliteit." }
+    ]
+  },
+  "certifications": {
+    "title": "Certificeringen & Kwalificaties",
+    "intro": "PL Rail beschikt over de benodigde kwalificaties om te werken in overeenstemming met de regelgevende en veiligheidseisen van de spoorsector:",
+    "items": [
+      { "name": "CACES® R482", "desc": "Bouwmachines – Kwalificatie voor het besturen van grondverzetmachines." },
+      { "name": "CACES® B3", "desc": "Gespecialiseerde Rail-Weg machines – Specifieke kwalificatie voor spoorwegvoertuigen." }
+    ]
+  },
+  "commitments": {
+    "title": "Onze toezeggingen",
+    "items": [
+      { "name": "Flexibele beschikbaarheid", "desc": "Inzetten mogelijk overdag, 's nachts, in het weekend en op feestdagen." },
+      { "name": "Reactievermogen", "desc": "Snelle inzetcapaciteit om te voldoen aan uw operationele spoedeisen." },
+      { "name": "Spoorwegveiligheid", "desc": "Strikte naleving van spoorwegveiligheidsprocedures en spoortoegangsprotocollen." },
+      { "name": "Operationele zelfstandigheid", "desc": "Operaties uitgevoerd met professionaliteit, zelfstandigheid en efficiëntie." },
+      { "name": "Aanpassingsvermogen", "desc": "Volledige aanpassing aan de specifieke beperkingen en eisen van elk project." }
+    ]
+  },
+  "missions": {
+    "title": "Soorten opdrachten",
+    "intro": "Elke interventie wordt uitgevoerd met inachtneming van de spoorwegnormen, de spoortoegangsprocedures en de geldende veiligheidsprotocollen.",
+    "items": [
+      "Teamversterking",
+      "Vervanging van machinebestuurders",
+      "Spoedinterventies",
+      "Geplande opdrachten",
+      "Korte-, middellange of langdurige dienstverlening"
+    ]
+  },
+  "contact": {
+    "title": "Neem contact op",
+    "body": "PL Rail staat tot uw beschikking om uw operationele behoeften te bestuderen en u een oplossing op maat van uw spoorwegprojecten voor te stellen.",
+    "cta_email": "Stuur een e-mail",
+    "cta_call": "Bellen",
+    "manager": "Pedro Barbosa",
+    "role": "Directeur – Spoorbouwmachinebestuurder"
+  },
+  "gallery": {
+    "label": "Ons werk",
+    "title": "Onze projecten"
+  },
+  "footer": {
+    "tagline": "Uw partner voor spoorwegprojecten",
+    "copyright": "© 2025 PL Rail. Alle rechten voorbehouden."
+  }
+}

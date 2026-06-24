@@ -1,0 +1,87 @@
+{
+  "seo": {
+    "title": "PL Rail – Operatori Ferroviari & Noleggio Rail-Route",
+    "description": "PL Rail, specialista nella fornitura di operatori qualificati di macchinari ferroviari e nel noleggio di attrezzature Rail-Route per cantieri ferroviari e opere pubbliche in Francia.",
+    "og_title": "PL Rail – Il vostro partner per i cantieri ferroviari",
+    "og_description": "Operatori qualificati, Escavatore Rail-Route, CACES® R482 & B3. Disponibile giorno, notte, week-end."
+  },
+  "nav": {
+    "about": "Chi siamo",
+    "services": "Servizi",
+    "equipment": "Attrezzature",
+    "certifications": "Certificazioni",
+    "commitments": "Impegni",
+    "missions": "Missioni",
+    "contact": "Contatto"
+  },
+  "hero": {
+    "tagline": "Il vostro partner per i cantieri ferroviari",
+    "cta": "Contattaci",
+    "scroll_hint": "Scopri"
+  },
+  "about": {
+    "title": "Chi siamo",
+    "body1": "PL Rail è un'azienda specializzata nella fornitura di operatori qualificati di macchinari ferroviari e nel noleggio di attrezzature Rail-Route per cantieri ferroviari e di lavori pubblici.",
+    "body2": "Forte di una solida esperienza sul campo, PL Rail supporta le aziende del settore con soluzioni flessibili, adattate alle esigenze specifiche di ogni cantiere, che si tratti di rinforzo temporaneo, sostituzione di operatori o interventi di lunga durata."
+  },
+  "services": {
+    "title": "Settori di intervento",
+    "intro": "Operiamo su diversi tipi di macchinari per lavori ferroviari e infrastrutturali:",
+    "items": [
+      { "name": "Escavatore Rail-Route", "desc": "Macchina polivalente per interventi su binari e fuori traccia, ideale per cantieri ferroviari complessi." },
+      { "name": "Escavatore gommato", "desc": "Mobilità e versatilità per lavori di sterro e infrastrutture." },
+      { "name": "Escavatore cingolato", "desc": "Stabilità e potenza per terreni difficili e grandi lavori di scavo." },
+      { "name": "Pala caricatrice", "desc": "Carico e movimentazione efficiente di materiali su cantieri ferroviari." }
+    ]
+  },
+  "equipment": {
+    "title": "Attrezzature disponibili",
+    "intro": "Possibilità di messa a disposizione di materiale complementare secondo le esigenze del cantiere:",
+    "items": [
+      { "name": "Escavatore Rail-Route + tiltrotator Engcon", "desc": "Massima flessibilità grazie all'attrezzatura tiltrotator Engcon sui binari." },
+      { "name": "Rincalzatrice MB8", "desc": "Compattazione e rincalzatura di precisione della massicciata per la manutenzione dei binari." },
+      { "name": "Spazzola massicciata", "desc": "Pulizia e manutenzione della massicciata in linea per garantire la qualità del tracciato." }
+    ]
+  },
+  "certifications": {
+    "title": "Certificazioni e Qualifiche",
+    "intro": "PL Rail dispone delle qualifiche necessarie per operare nel rispetto dei requisiti normativi e di sicurezza del settore ferroviario:",
+    "items": [
+      { "name": "CACES® R482", "desc": "Macchine da costruzione – Qualifica per la conduzione di macchine per lavori pubblici." },
+      { "name": "CACES® B3", "desc": "Macchine specializzate Rail-Route – Qualifica specifica per macchinari ferroviari." }
+    ]
+  },
+  "commitments": {
+    "title": "I nostri impegni",
+    "items": [
+      { "name": "Disponibilità flessibile", "desc": "Interventi possibili giorno, notte, week-end e giorni festivi secondo le vostre esigenze." },
+      { "name": "Reattività", "desc": "Capacità di intervento rapido per rispondere alle vostre urgenze operative." },
+      { "name": "Sicurezza ferroviaria", "desc": "Rigoroso rispetto delle procedure di sicurezza ferroviaria e dei protocolli di accesso ai binari." },
+      { "name": "Autonomia operativa", "desc": "Operazioni condotte con professionalità, autonomia ed efficienza." },
+      { "name": "Adattabilità", "desc": "Adattamento completo ai vincoli e alle esigenze specifiche di ogni cantiere." }
+    ]
+  },
+  "missions": {
+    "title": "Tipi di missione",
+    "intro": "Ogni intervento è realizzato nel rispetto delle norme ferroviarie, delle procedure di accesso ai binari e dei protocolli di sicurezza vigenti.",
+    "items": [
+      "Rinforzo di squadre",
+      "Sostituzione di operatori",
+      "Interventi urgenti",
+      "Missioni programmate",
+      "Prestazioni di breve, media o lunga durata"
+    ]
+  },
+  "contact": {
+    "title": "Contattateci",
+    "body": "PL Rail è a vostra disposizione per studiare le vostre esigenze operative e proporvi una soluzione adattata ai vostri progetti ferroviari.",
+    "cta_email": "Invia un'e-mail",
+    "cta_call": "Chiama",
+    "manager": "Pedro Barbosa",
+    "role": "Gestore – Operatore di macchinari ferroviari"
+  },
+  "footer": {
+    "tagline": "Il vostro partner per i cantieri ferroviari",
+    "copyright": "© 2025 PL Rail. Tutti i diritti riservati."
+  }
+}

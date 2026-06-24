@@ -1,0 +1,87 @@
+{
+  "seo": {
+    "title": "PL Rail – Conducteurs d'engins ferroviaires & Location Rail-Route",
+    "description": "PL Rail, spécialiste de la mise à disposition de conducteurs d'engins ferroviaires qualifiés et de la location de matériel Rail-Route pour chantiers ferroviaires et travaux publics en France.",
+    "og_title": "PL Rail – Votre partenaire ferroviaire",
+    "og_description": "Conducteurs qualifiés, Pelle Rail-Route, CACES® R482 & B3. Disponible jour, nuit, week-end."
+  },
+  "nav": {
+    "about": "À propos",
+    "services": "Services",
+    "equipment": "Équipements",
+    "certifications": "Certifications",
+    "commitments": "Engagements",
+    "missions": "Missions",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Votre partenaire pour vos chantiers ferroviaires",
+    "cta": "Nous contacter",
+    "scroll_hint": "Découvrir"
+  },
+  "about": {
+    "title": "Qui sommes-nous ?",
+    "body1": "PL Rail est une entreprise spécialisée dans la mise à disposition de conducteurs d'engins ferroviaires qualifiés ainsi que dans la location de matériel Rail-Route destiné aux chantiers ferroviaires et de travaux publics.",
+    "body2": "Fort d'une solide expérience sur le terrain, PL Rail accompagne les entreprises du secteur en proposant des solutions flexibles, adaptées aux besoins spécifiques de chaque chantier, qu'il s'agisse d'un renfort ponctuel, d'un remplacement d'opérateur ou d'une intervention de longue durée."
+  },
+  "services": {
+    "title": "Domaines d'intervention",
+    "intro": "Nous intervenons sur différents types d'engins destinés aux travaux ferroviaires et aux infrastructures :",
+    "items": [
+      { "name": "Pelle Rail-Route", "desc": "Engin polyvalent adapté aux interventions sur voie ferrée et en dehors, idéal pour les chantiers ferroviaires complexes." },
+      { "name": "Pelle à pneus", "desc": "Mobilité et polyvalence pour les travaux de terrassement et d'infrastructure." },
+      { "name": "Pelle à chenilles", "desc": "Stabilité et puissance pour les terrains difficiles et les grands travaux d'excavation." },
+      { "name": "Chargeuse / Chargeur", "desc": "Chargement et manutention efficace de matériaux sur chantier ferroviaire." }
+    ]
+  },
+  "equipment": {
+    "title": "Équipements disponibles",
+    "intro": "Possibilité de mise à disposition de matériel complémentaire selon les besoins du chantier :",
+    "items": [
+      { "name": "Pelle Rail-Route + tiltrotateur Engcon", "desc": "Flexibilité maximale grâce à l'équipement tiltrotateur Engcon sur les voies ferrées." },
+      { "name": "Bourreuse MB8", "desc": "Compactage et bourrage du ballast de précision pour la maintenance des voies." },
+      { "name": "Balai à ballast", "desc": "Nettoyage et entretien du ballast sur voie pour assurer la qualité de la voie." }
+    ]
+  },
+  "certifications": {
+    "title": "Certifications & Qualifications",
+    "intro": "PL Rail dispose des qualifications nécessaires pour intervenir dans le respect des exigences réglementaires et sécuritaires du secteur ferroviaire :",
+    "items": [
+      { "name": "CACES® R482", "desc": "Engins de chantier – Qualification pour la conduite d'engins de travaux publics." },
+      { "name": "CACES® B3", "desc": "Engins spécialisés Rail-Route – Qualification spécifique pour les engins ferroviaires." }
+    ]
+  },
+  "commitments": {
+    "title": "Nos engagements",
+    "items": [
+      { "name": "Disponibilité flexible", "desc": "Interventions possibles jour, nuit, week-end et jours fériés selon vos besoins." },
+      { "name": "Réactivité", "desc": "Capacité d'intervention rapide pour répondre à vos urgences opérationnelles." },
+      { "name": "Sécurité ferroviaire", "desc": "Respect strict des procédures de sécurité ferroviaire et des protocoles d'accès aux voies." },
+      { "name": "Autonomie opérationnelle", "desc": "Opérations menées avec professionnalisme, autonomie et efficacité." },
+      { "name": "Adaptabilité", "desc": "Adaptation complète aux contraintes et exigences spécifiques de chaque chantier." }
+    ]
+  },
+  "missions": {
+    "title": "Types de missions",
+    "intro": "Chaque intervention est réalisée dans le respect des normes ferroviaires, des procédures d'accès aux voies et des protocoles de sécurité en vigueur.",
+    "items": [
+      "Renfort d'équipes",
+      "Remplacement d'opérateur",
+      "Interventions urgentes",
+      "Missions programmées",
+      "Prestations de courte, moyenne ou longue durée"
+    ]
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "body": "PL Rail reste à votre disposition pour étudier vos besoins opérationnels et vous proposer une solution adaptée à vos projets ferroviaires.",
+    "cta_email": "Envoyer un e-mail",
+    "cta_call": "Appeler",
+    "manager": "Pedro Barbosa",
+    "role": "Gérant – Conducteur d'engins ferroviaires"
+  },
+  "footer": {
+    "tagline": "Votre partenaire pour vos chantiers ferroviaires",
+    "copyright": "© 2025 PL Rail. Tous droits réservés."
+  }
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="PL Rail">
+  <title>PL Rail</title>
+  <rect x="2" y="2" width="60" height="60" rx="14" ry="14" fill="#11304d"/>
+  <path d="M9 55 Q32 32 55 9" stroke="#ff752f" stroke-width="7" stroke-linecap="round" fill="none"/>
+  <path d="M21 60 Q44 37 59 22" stroke="#ff752f" stroke-width="7" stroke-linecap="round" fill="none"/>
+  <path d="M37 62 Q54 48 61 36" stroke="#ff752f" stroke-width="7" stroke-linecap="round" fill="none"/>
+</svg>
