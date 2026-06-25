@@ -24,6 +24,7 @@
 		const onScroll = () => {
 			scrolled = window.scrollY > 60;
 		};
+		onScroll();
 		window.addEventListener('scroll', onScroll, { passive: true });
 		return () => window.removeEventListener('scroll', onScroll);
 	});
@@ -108,7 +109,8 @@
 		left: 0;
 		right: 0;
 		z-index: 100;
-		transition: background var(--ease), box-shadow var(--ease);
+		transition: background var(--ease), box-shadow var(--ease), transform var(--ease),
+			opacity var(--ease);
 	}
 
 	.header--scrolled,
@@ -329,6 +331,25 @@
 
 		.hamburger {
 			display: flex;
+		}
+
+		/* Hide the navbar over the hero; reveal it only once the user scrolls */
+		.header {
+			transform: translateY(-100%);
+			opacity: 0;
+			pointer-events: none;
+		}
+
+		.header--scrolled,
+		.header--menu-open {
+			transform: translateY(0);
+			opacity: 1;
+			pointer-events: auto;
+		}
+
+		/* Let the hero fill the viewport so the scroll hint isn't pushed off-screen */
+		.header-spacer {
+			display: none;
 		}
 	}
 
